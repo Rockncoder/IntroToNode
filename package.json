@@ -1,0 +1,8 @@
+{
+	"main": "server.js",
+	"name": "IntroToNode",
+	"engine": "0.6.17",
+	"version":"0.0.1",
+	"description": "node.js demo server",
+	"dependencies": {}
+}
